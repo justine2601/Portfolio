@@ -1,0 +1,11 @@
+c:\users\alanj\documents\visual studio 2015\Projects\midtermexam\midtermexam\bin\Debug\midtermexam.exe.config
+c:\users\alanj\documents\visual studio 2015\Projects\midtermexam\midtermexam\bin\Debug\midtermexam.exe
+c:\users\alanj\documents\visual studio 2015\Projects\midtermexam\midtermexam\bin\Debug\midtermexam.pdb
+c:\users\alanj\documents\visual studio 2015\Projects\midtermexam\midtermexam\obj\Debug\midtermexam.csprojResolveAssemblyReference.cache
+c:\users\alanj\documents\visual studio 2015\Projects\midtermexam\midtermexam\obj\Debug\midtermexam.SplashScreen.resources
+c:\users\alanj\documents\visual studio 2015\Projects\midtermexam\midtermexam\obj\Debug\midtermexam.GradingComputation.resources
+c:\users\alanj\documents\visual studio 2015\Projects\midtermexam\midtermexam\obj\Debug\midtermexam.Properties.Resources.resources
+c:\users\alanj\documents\visual studio 2015\Projects\midtermexam\midtermexam\obj\Debug\midtermexam.csproj.GenerateResource.Cache
+c:\users\alanj\documents\visual studio 2015\Projects\midtermexam\midtermexam\obj\Debug\midtermexam.exe
+c:\users\alanj\documents\visual studio 2015\Projects\midtermexam\midtermexam\obj\Debug\midtermexam.pdb
+c:\users\alanj\documents\visual studio 2015\Projects\midtermexam\midtermexam\obj\Debug\midtermexam.Summary.resources
