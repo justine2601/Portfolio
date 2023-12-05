@@ -1,0 +1,75 @@
+.T1{
+	background-color: #8A32C5;
+}
+.c1{
+	background-color: #190168;
+	border-bottom-left-radius:50px; 
+	border-top-left-radius: 50px;
+}
+.c3{
+	background-color: #190168;
+	border-bottom-right-radius:50px; 
+	border-top-right-radius: 50px;
+}
+.c2{
+	background-color: #190168;
+	border-radius: 50px;
+	width: 850px;
+
+}
+.Vlineright{
+	border-left: 6px solid #190168;
+	height: 250px;
+}
+.Vlineleft{
+	border-right: 6px solid #190168;
+	height: 250px;
+}
+.Links{
+	text-decoration: none;
+	color: #FABF10;
+	border-color: #190168;
+	font-size: 20px;
+	border-radius: 50px;
+}
+.Links:hover{
+	color: #FABF10;
+	background-color: #F8E097;
+}
+.picture{
+	width: 350px;
+	height: 250px;
+}
+p{
+	letter-spacing: 1px;
+	color:#FABF10;
+}
+hr{
+	margin-top: 10px;
+	width: 750px;
+	height: 6px;
+	background-color: #190168;
+}
+.btn1{
+	font-size: 15px; padding: 8px; 
+	border-radius: 20px; margin: 15px; 
+	text-align: center; width: 150px;
+	color: #421822;
+	border-color: #58A6A6;
+	cursor: pointer;
+}
+.btn1:hover{
+	background-color: #FABF10;
+}
+.mepic{
+	border-radius: 30%;
+	height: 400px;
+}
+.table1{
+	border-radius: 20%;
+	padding: 50px;
+	background-color: #190168;
+}
+.intro{
+	padding: 30px;
+}
