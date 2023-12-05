@@ -1,0 +1,148 @@
+.table1{
+	margin-top: -10px;
+}
+.links{
+	text-decoration: none;
+	color: #372C0A;
+	border-color: #190168;
+	font-size: 20px;
+	border-radius: 50px;
+}
+.links:hover{
+	color: #;
+	background-color: #F8E097;
+}
+.links2{
+	text-decoration: none;
+	color: black;
+	letter-spacing: -1.9px;
+	line-height: 2.8;
+}
+.links2:hover{
+	color: #;
+	background-color: #F8E097;
+}
+.links3{
+	text-decoration: none;
+	color: black;
+	letter-spacing: -1px;
+
+}
+.links3:hover{
+	color: #;
+	background-color: #F8E097;
+}
+.lenk{
+	text-decoration: none;
+	color: #372C0A;
+}
+.mySlides{
+	width: 480px;
+	height: 350px;
+}
+.btnleft:hover{
+	color:blue;
+	background-color: #F8E097;
+}
+.btnright:hover{
+	color:blue;
+	background-color: #F8E097;
+}
+.container{
+  position: relative;
+  width: 100%;
+  max-width: 400px;
+}
+.container .btnleft {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-350%, -50%);
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+}
+.container .btnright {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(390%, -50%);
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+}
+.coulumn1{
+	background-color: #A7864F;
+}
+hr{
+	margin-top: 5px;
+	width: 250px;
+	height: 6px;
+	background-color: #A7864F;
+}
+.logo{
+	margin-right: 10px;
+	margin-top: 10px;
+}
+.tableB{
+	border-radius: 5px 100px;
+	background: #A7864F;
+	padding: 20px; 
+	width: 100%;
+ }
+ .fontsplash{
+ 	font-size: 150px;
+ }
+ .btn1{
+	font-size: 15px; padding: 8px; 
+	border-radius: 20px 900px; margin: 15px; 
+	text-align: center; width: 150px;	
+	color: #421822;
+	border-color: #A7864F;
+	cursor: pointer;
+	margin-right: 370px; 
+}
+.btn1:hover{
+	background-color: #EADFD2;
+}
+.header{
+	font-size: 50px;
+	margin-bottom: -15px;
+
+}
+.header2{
+	font-size: 80px;
+}
+.ref{
+	color: #A7864F;
+
+}
+p.subs{
+	padding: 50px;
+	text-justify: auto;
+}
+p.subs2{
+	margin-top: 1px;
+	text-justify: auto;
+}
+.btn2{
+	font-size: 15px; padding: 8px; 
+	border-radius: 20px 900px; margin: 15px; 
+	text-align: center; width: 150px;	
+	color: #421822;
+	border-color: #A7864F;
+	cursor: pointer; 
+}
+.btn2:hover{
+	background-color: #EADFD2;
+}
